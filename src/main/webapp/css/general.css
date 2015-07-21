@@ -1,0 +1,12 @@
+.wrapper {
+   background-color: #e0e0ff;
+   margin: 0 auto;
+}
+.left {
+   background-color: #ffe0e0;
+   float: left;
+}
+.right {
+   background-color: #e1ffe0;
+   float: left;
+}
